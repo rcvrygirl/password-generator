@@ -1,4 +1,5 @@
-# PasswordGenerator
+# Password Generator
+## View live: https://password-generator-taupe-eight.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
